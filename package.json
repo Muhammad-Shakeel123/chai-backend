@@ -1,5 +1,5 @@
 {
-  "name": "chai-backend",
+  "name": "chaibackend2",
   "version": "1.0.0",
   "description": "a backend on chai our code channel-youtube",
   "main": "index.js",
@@ -8,9 +8,9 @@
   },
   "keywords": [
     "javascript",
-    "chai",
-    "code"
+    "backend",
+    "chai"
   ],
-  "author": "Muhammad Shakeel",
+  "author": "Muhammad shakeel",
   "license": "ISC"
 }
